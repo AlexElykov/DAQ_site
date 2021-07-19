@@ -1,3 +1,6 @@
+# Dependency libs
 node_modules/
-logs/
+
+.npm
+.env
 *.swp
