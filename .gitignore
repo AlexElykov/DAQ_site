@@ -1,6 +1,7 @@
 # Dependency libs
 node_modules/
 
+#ignore files
 .npm
 .env
 *.swp
